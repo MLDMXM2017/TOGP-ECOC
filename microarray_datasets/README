@@ -1,6 +1,0 @@
-两个微阵列数据集
-数据集名称：Leukemia1和Leukemia2
-样本量：72
-特征数量：29
-类别数量：3
-按2:1:1划分为train validation test

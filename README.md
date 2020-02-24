@@ -3,7 +3,6 @@
 Ternary Operator Based Genetic Programming - Error Correcting Output Codes
 
 This is the implementation for paper: [A Ternary Operator Based Genetic Programming Approach to Improving Error Correcting Output Codes]
-
 ## Acknowledgement
 
 - Codes about Genetic Programming is modified from  [Pyevolve](<https://github.com/perone/Pyevolve>)
